@@ -3,7 +3,9 @@ $title = "Contato";
 include_once "header.php";
 ?>
 
-<main class="container my-4">
+<main class="container py-5 bg-body-tertiary">
+    <h2 class="pb-2 border-bottom">Fale com a gente</h2>
+
     <div class="row g-5">
         <div class="col-md-6">
             <h4 class="mb-3">Entre em Contato</h4>

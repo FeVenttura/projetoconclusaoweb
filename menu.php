@@ -20,6 +20,9 @@
                     <a class="nav-link" aria-current="page" href="produtos.php">Produtos</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="noticias.php">Notícias</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="contato.php">Contato</a>
                 </li>
             </ul>
