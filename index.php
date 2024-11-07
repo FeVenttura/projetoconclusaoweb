@@ -4,17 +4,27 @@ include_once "header.php";
 ?>
 
 <main>
+    <div class='classecontainer'>
+        <div> <h1> Conectamos</h1>
+        <h1> Voluntários a ONG's</h1>
+        <p> Seja um voluntário e ajude outras pessoas <p>
+
+
+        </div>
 
     <div id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="https://picsum.photos/1140/400/?1" class="d-block w-100" alt="...">
+                <img src="assets/images/Colaborador-voluntario.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="https://picsum.photos/1140/400/?2" class="d-block w-100" alt="...">
+                <img src="assets/images/trabalho-voluntario.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="https://picsum.photos/1140/400/?3" class="d-block w-100" alt="...">
+                <img src="assets/images/voluntariado.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="assets/images/voluntario.jpg" class="d-block w-100" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -27,15 +37,18 @@ include_once "header.php";
         </button>
     </div>
 
+    </div>
+
+
 
     <div class="container py-5">
-        <h2 class="pb-2 border-bottom">Ícones em Destaque</h2>
+        <h2 class="pb-2 border-bottom">Abaixo nossos principais acessos</h2>
         <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
             <div class="col d-flex align-items-start">
 
                 <div>
-                    <h3 class="fs-2 text-body-emphasis">Título Principal</h3>
-                    <p>Este é um breve texto explicativo. Aqui você pode descrever mais detalhes sobre esta seção.</p>
+                    <h3 class="fs-2 text-body-emphasis">Nossas ONG's parceiras</h3>
+                    <p>Nesta seção, veja as principais ONG's parceiras.</p>
                     <a href="#" class="btn btn-primary">
                         Saiba Mais
                     </a>
@@ -44,8 +57,8 @@ include_once "header.php";
             <div class="col d-flex align-items-start">
 
                 <div>
-                    <h3 class="fs-2 text-body-emphasis">Funcionalidade Extra</h3>
-                    <p>Adicione uma breve descrição para explicar a funcionalidade e sua importância para o usuário.</p>
+                    <h3 class="fs-2 text-body-emphasis">Nossos voluntários parceiros</h3>
+                    <p>Conheça nossos voluntários parceiros, espalhados por todo Brasil.</p>
                     <a href="#" class="btn btn-primary">
                         Ver Mais
                     </a>
@@ -54,10 +67,10 @@ include_once "header.php";
             <div class="col d-flex align-items-start">
 
                 <div>
-                    <h3 class="fs-2 text-body-emphasis">Ferramentas Úteis</h3>
-                    <p>Descrição breve sobre a importância dessas ferramentas para melhorar a experiência do usuário.</p>
+                    <h3 class="fs-2 text-body-emphasis">Cadastre-se</h3>
+                    <p>Clique no link abaixo e passa parte da nossa comunidade.</p>
                     <a href="#" class="btn btn-primary">
-                        Descubra
+                        Cadastre-se
                     </a>
                 </div>
             </div>

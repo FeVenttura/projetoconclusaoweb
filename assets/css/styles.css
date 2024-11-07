@@ -1,3 +1,19 @@
 .container {
   max-width: 1140px;
 }/*# sourceMappingURL=styles.css.map */
+
+.carousel-item img {
+  width: 500px; 
+  height: 500px;
+  right: 10px;
+  object-fit: cover; 
+  right: 10px;
+}
+
+.classecontainer{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+
+}
